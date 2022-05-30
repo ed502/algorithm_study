@@ -1,1 +1,3 @@
-# algorithm_study
+# 이세민 알고리즘 스터디
+
+DP 문제 푸는 중
